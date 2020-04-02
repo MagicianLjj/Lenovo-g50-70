@@ -1,0 +1,142 @@
+33:533  4:020  Found BIOS RSDP at FE020
+33:533  0:000  Printing ACPI tables from RSDP FE020 ...
+33:533  0:000   FE020: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+33:533  0:000    (Xsdt: AAFFE210, Rsdt: AAFFE124)
+33:533  0:000    AAFFE210: 'XSDT', 'CB-01   ', Rev: 1, Len: 204
+33:533  0:000    AAFFE124: 'RSDT', 'CB-01   ', Rev: 1, Len: 120
+33:533  0:000    Tables in Xsdt: 21
+33:533  0:000    0. AAFF7000: 'FACP', 'CB-01   ', Rev: 5, Len: 268
+33:533  0:000        (Dsdt: AAFE4000, Facs: AAFBA000, XDsdt: AAFE4000, XFacs: 0)
+33:533  0:000        AAFE4000: 'DSDT', 'CB-01   ', Rev: 2, Len: 62651
+33:535  0:001        AAFBA000: 'FACS', Ver: 2, Len: 64
+33:535  0:000    1. AAFFD000: 'SLIC', 'CB-01   ', Rev: 1, Len: 374
+33:535  0:000    2. AAFFC000: 'UEFI', 'CB-01   ', Rev: 1, Len: 566
+33:535  0:000    3. AAFFA000: 'FPDT', 'CB-01   ', Rev: 1, Len: 68
+33:535  0:000    4. AAFF9000: 'MSDM', 'CB-01   ', Rev: 3, Len: 85
+33:535  0:000    5. AAFF8000: 'ASF!', 'CB-01   ', Rev: 32, Len: 165
+33:535  0:000    6. AAFF6000: 'HPET', 'CB-01   ', Rev: 1, Len: 56
+33:535  0:000    7. AAFF5000: 'APIC', 'CB-01   ', Rev: 3, Len: 140
+33:535  0:000    8. AAFF4000: 'MCFG', 'CB-01   ', Rev: 1, Len: 60
+33:535  0:000    9. AAFE3000: 'WDAT', 'CB-01   ', Rev: 1, Len: 548
+33:535  0:000    10. AAFE0000: 'SSDT', 'CB-01   ', Rev: 1, Len: 8232
+33:535  0:000    11. AAFDE000: 'BOOT', 'CB-01   ', Rev: 1, Len: 40
+33:535  0:000    12. AAFDD000: 'LPIT', 'CB-01   ', Rev: 1, Len: 148
+33:535  0:000    13. AAFDB000: 'ASPT', 'CB-01   ', Rev: 7, Len: 52
+33:535  0:000    14. AAFDA000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+33:535  0:000    15. AAFD2000: 'SSDT', 'CB-01   ', Rev: 1, Len: 1304
+33:535  0:000    16. AAFD1000: 'SSDT', 'CB-01   ', Rev: 1, Len: 2776
+33:535  0:000    17. AAFCD000: 'SSDT', 'CB-01   ', Rev: 1, Len: 13560
+33:535  0:000    18. AAFC8000: 'SSDT', 'CB-01   ', Rev: 1, Len: 8848
+33:535  0:000    19. AAFCB000: 'DMAR', 'CB-01   ', Rev: 1, Len: 176
+33:535  0:000    20. AAFCC000: 'BGRT', 'CB-01   ', Rev: 1, Len: 56
+33:535  0:000    Tables in Rsdt: 21
+33:535  0:000    0. AAFF7000: 'FACP', 'CB-01   ', Rev: 5, Len: 268
+33:535  0:000        (Dsdt: AAFE4000, Facs: AAFBA000, XDsdt: AAFE4000, XFacs: 0)
+33:535  0:000        AAFE4000: 'DSDT', 'CB-01   ', Rev: 2, Len: 62651
+33:537  0:001        AAFBA000: 'FACS', Ver: 2, Len: 64
+33:537  0:000    1. AAFFD000: 'SLIC', 'CB-01   ', Rev: 1, Len: 374
+33:537  0:000    2. AAFFC000: 'UEFI', 'CB-01   ', Rev: 1, Len: 566
+33:537  0:000    3. AAFFA000: 'FPDT', 'CB-01   ', Rev: 1, Len: 68
+33:537  0:000    4. AAFF9000: 'MSDM', 'CB-01   ', Rev: 3, Len: 85
+33:537  0:000    5. AAFF8000: 'ASF!', 'CB-01   ', Rev: 32, Len: 165
+33:537  0:000    6. AAFF6000: 'HPET', 'CB-01   ', Rev: 1, Len: 56
+33:537  0:000    7. AAFF5000: 'APIC', 'CB-01   ', Rev: 3, Len: 140
+33:537  0:000    8. AAFF4000: 'MCFG', 'CB-01   ', Rev: 1, Len: 60
+33:537  0:000    9. AAFE3000: 'WDAT', 'CB-01   ', Rev: 1, Len: 548
+33:537  0:000    10. AAFE0000: 'SSDT', 'CB-01   ', Rev: 1, Len: 8232
+33:537  0:000    11. AAFDE000: 'BOOT', 'CB-01   ', Rev: 1, Len: 40
+33:537  0:000    12. AAFDD000: 'LPIT', 'CB-01   ', Rev: 1, Len: 148
+33:537  0:000    13. AAFDB000: 'ASPT', 'CB-01   ', Rev: 7, Len: 52
+33:537  0:000    14. AAFDA000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+33:537  0:000    15. AAFD2000: 'SSDT', 'CB-01   ', Rev: 1, Len: 1304
+33:537  0:000    16. AAFD1000: 'SSDT', 'CB-01   ', Rev: 1, Len: 2776
+33:537  0:000    17. AAFCD000: 'SSDT', 'CB-01   ', Rev: 1, Len: 13560
+33:537  0:000    18. AAFC8000: 'SSDT', 'CB-01   ', Rev: 1, Len: 8848
+33:537  0:000    19. AAFCB000: 'DMAR', 'CB-01   ', Rev: 1, Len: 176
+33:537  0:000    20. AAFCC000: 'BGRT', 'CB-01   ', Rev: 1, Len: 56
+33:537  0:000  Found UEFI Acpi 2.0 RSDP at AAFFE014
+33:537  0:000  Saving ACPI tables from RSDP AAFFE014 to EFI\CLOVER\ACPI\origin ...
+33:537  0:000   AAFFE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+33:537  0:000    (Xsdt: AAFFE210, Rsdt: AAFFE124)
+33:537  0:000    AAFFE210: 'XSDT', 'CB-01   ', Rev: 1, Len: 204
+33:537  0:000    AAFFE124: 'RSDT', 'CB-01   ', Rev: 1, Len: 120
+33:537  0:000    Tables in Xsdt: 21
+33:537  0:000    0. AAFF7000: 'FACP', 'CB-01   ', Rev: 5, Len: 268
+33:537  0:000        (Dsdt: AAFE4000, Facs: AAFBA000, XDsdt: AAFE4000, XFacs: 0)
+33:537  0:000        AAFE4000: 'DSDT', 'CB-01   ', Rev: 2, Len: 62651
+33:538  0:001        AAFBA000: 'FACS', Ver: 2, Len: 64
+33:538  0:000    1. AAFFD000: 'SLIC', 'CB-01   ', Rev: 1, Len: 374
+33:538  0:000    2. AAFFC000: 'UEFI', 'CB-01   ', Rev: 1, Len: 566
+33:538  0:000    3. AAFFA000: 'FPDT', 'CB-01   ', Rev: 1, Len: 68
+33:538  0:000    4. AAFF9000: 'MSDM', 'CB-01   ', Rev: 3, Len: 85
+33:538  0:000    5. AAFF8000: 'ASF!', 'CB-01   ', Rev: 32, Len: 165
+33:538  0:000    6. AAFF6000: 'HPET', 'CB-01   ', Rev: 1, Len: 56
+33:538  0:000    7. AAFF5000: 'APIC', 'CB-01   ', Rev: 3, Len: 140
+33:538  0:000    8. AAFF4000: 'MCFG', 'CB-01   ', Rev: 1, Len: 60
+33:538  0:000    9. AAFE3000: 'WDAT', 'CB-01   ', Rev: 1, Len: 548
+33:538  0:000    10. AAFE0000: 'SSDT', 'CB-01   ', Rev: 1, Len: 8232
+33:538  0:000    11. AAFDE000: 'BOOT', 'CB-01   ', Rev: 1, Len: 40
+33:538  0:000    12. AAFDD000: 'LPIT', 'CB-01   ', Rev: 1, Len: 148
+33:538  0:000    13. AAFDB000: 'ASPT', 'CB-01   ', Rev: 7, Len: 52
+33:538  0:000    14. AAFDA000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+33:538  0:000    15. AAFD2000: 'SSDT', 'CB-01   ', Rev: 1, Len: 1304
+33:538  0:000    16. AAFD1000: 'SSDT', 'CB-01   ', Rev: 1, Len: 2776
+33:538  0:000    17. AAFCD000: 'SSDT', 'CB-01   ', Rev: 1, Len: 13560
+33:538  0:000    18. AAFC8000: 'SSDT', 'CB-01   ', Rev: 1, Len: 8848
+33:538  0:000    19. AAFCB000: 'DMAR', 'CB-01   ', Rev: 1, Len: 176
+33:538  0:000    20. AAFCC000: 'BGRT', 'CB-01   ', Rev: 1, Len: 56
+33:538  0:000    Tables in Rsdt: 21
+33:538  0:000    0. AAFF7000: 'FACP', 'CB-01   ', Rev: 5, Len: 268
+33:538  0:000        (Dsdt: AAFE4000, Facs: AAFBA000, XDsdt: AAFE4000, XFacs: 0)
+33:538  0:000        AAFE4000: 'DSDT', 'CB-01   ', Rev: 2, Len: 62651
+33:540  0:001        AAFBA000: 'FACS', Ver: 2, Len: 64
+33:540  0:000    1. AAFFD000: 'SLIC', 'CB-01   ', Rev: 1, Len: 374
+33:540  0:000    2. AAFFC000: 'UEFI', 'CB-01   ', Rev: 1, Len: 566
+33:540  0:000    3. AAFFA000: 'FPDT', 'CB-01   ', Rev: 1, Len: 68
+33:540  0:000    4. AAFF9000: 'MSDM', 'CB-01   ', Rev: 3, Len: 85
+33:540  0:000    5. AAFF8000: 'ASF!', 'CB-01   ', Rev: 32, Len: 165
+33:540  0:000    6. AAFF6000: 'HPET', 'CB-01   ', Rev: 1, Len: 56
+33:540  0:000    7. AAFF5000: 'APIC', 'CB-01   ', Rev: 3, Len: 140
+33:540  0:000    8. AAFF4000: 'MCFG', 'CB-01   ', Rev: 1, Len: 60
+33:540  0:000    9. AAFE3000: 'WDAT', 'CB-01   ', Rev: 1, Len: 548
+33:540  0:000    10. AAFE0000: 'SSDT', 'CB-01   ', Rev: 1, Len: 8232
+33:540  0:000    11. AAFDE000: 'BOOT', 'CB-01   ', Rev: 1, Len: 40
+33:540  0:000    12. AAFDD000: 'LPIT', 'CB-01   ', Rev: 1, Len: 148
+33:540  0:000    13. AAFDB000: 'ASPT', 'CB-01   ', Rev: 7, Len: 52
+33:540  0:000    14. AAFDA000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+33:540  0:000    15. AAFD2000: 'SSDT', 'CB-01   ', Rev: 1, Len: 1304
+33:540  0:000    16. AAFD1000: 'SSDT', 'CB-01   ', Rev: 1, Len: 2776
+33:540  0:000    17. AAFCD000: 'SSDT', 'CB-01   ', Rev: 1, Len: 13560
+33:540  0:000    18. AAFC8000: 'SSDT', 'CB-01   ', Rev: 1, Len: 8848
+33:540  0:000    19. AAFCB000: 'DMAR', 'CB-01   ', Rev: 1, Len: 176
+33:540  0:000    20. AAFCC000: 'BGRT', 'CB-01   ', Rev: 1, Len: 56
+33:540  0:000  Found UEFI Acpi 1.0 RSDP at AAFFE000
+33:540  0:000  Printing ACPI tables from RSDP AAFFE000 ...
+33:540  0:000   AAFFE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+33:540  0:000    (Rsdt: AAFFE038)
+33:540  0:000    AAFFE038: 'RSDT', 'CB-01   ', Rev: 1, Len: 120
+33:540  0:000    Tables in Rsdt: 21
+33:540  0:000    0. AAFF7000: 'FACP', 'CB-01   ', Rev: 5, Len: 268
+33:540  0:000        (Dsdt: AAFE4000, Facs: AAFBA000, XDsdt: AAFE4000, XFacs: 0)
+33:540  0:000        AAFE4000: 'DSDT', 'CB-01   ', Rev: 2, Len: 62651
+33:542  0:001        AAFBA000: 'FACS', Ver: 2, Len: 64
+33:542  0:000    1. AAFFD000: 'SLIC', 'CB-01   ', Rev: 1, Len: 374
+33:542  0:000    2. AAFFC000: 'UEFI', 'CB-01   ', Rev: 1, Len: 566
+33:542  0:000    3. AAFFA000: 'FPDT', 'CB-01   ', Rev: 1, Len: 68
+33:542  0:000    4. AAFF9000: 'MSDM', 'CB-01   ', Rev: 3, Len: 85
+33:542  0:000    5. AAFF8000: 'ASF!', 'CB-01   ', Rev: 32, Len: 165
+33:542  0:000    6. AAFF6000: 'HPET', 'CB-01   ', Rev: 1, Len: 56
+33:542  0:000    7. AAFF5000: 'APIC', 'CB-01   ', Rev: 3, Len: 140
+33:542  0:000    8. AAFF4000: 'MCFG', 'CB-01   ', Rev: 1, Len: 60
+33:542  0:000    9. AAFE3000: 'WDAT', 'CB-01   ', Rev: 1, Len: 548
+33:542  0:000    10. AAFE0000: 'SSDT', 'CB-01   ', Rev: 1, Len: 8232
+33:542  0:000    11. AAFDE000: 'BOOT', 'CB-01   ', Rev: 1, Len: 40
+33:542  0:000    12. AAFDD000: 'LPIT', 'CB-01   ', Rev: 1, Len: 148
+33:542  0:000    13. AAFDB000: 'ASPT', 'CB-01   ', Rev: 7, Len: 52
+33:542  0:000    14. AAFDA000: 'DBGP', 'CB-01   ', Rev: 1, Len: 52
+33:542  0:000    15. AAFD2000: 'SSDT', 'CB-01   ', Rev: 1, Len: 1304
+33:542  0:000    16. AAFD1000: 'SSDT', 'CB-01   ', Rev: 1, Len: 2776
+33:542  0:000    17. AAFCD000: 'SSDT', 'CB-01   ', Rev: 1, Len: 13560
+33:542  0:000    18. AAFC8000: 'SSDT', 'CB-01   ', Rev: 1, Len: 8848
+33:542  0:000    19. AAFCB000: 'DMAR', 'CB-01   ', Rev: 1, Len: 176
+33:542  0:000    20. AAFCC000: 'BGRT', 'CB-01   ', Rev: 1, Len: 56
