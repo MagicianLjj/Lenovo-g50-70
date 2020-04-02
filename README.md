@@ -1,4 +1,5 @@
 # Lenovo-g50-70
+The hackintosh configs and tools for Lenovo G50-70.  
 此机型的配置为  
 i5-4258u + hd5100  
 ELAN PS/2触控板  
