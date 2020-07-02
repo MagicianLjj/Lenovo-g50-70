@@ -43,7 +43,7 @@ bios 设置UEFI引导，8个苹果花屏消失，通过注入EDID可以修复开
 1. 关闭蓝牙 在/System/Library/Extensions/IOBluetoothFamily.kext/Contents/PlugIns/  
 BroadcomBluetoothHostControllerUSBTransport.kext/Contents/  
 目录下  
-使用xcode10在 Info.plist 文件中 BroadcomUSBBluetoothHCIController 下注入自己的蓝牙id  
+使用vscode等在 Info.plist 文件中 BroadcomUSBBluetoothHCIController 下注入自己的蓝牙id  
 修复权限并重启  
 2. 驱动AR9565方法
 需要lilu.kext支持  

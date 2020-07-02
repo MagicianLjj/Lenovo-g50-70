@@ -441,6 +441,8 @@
 		<string>91DFFC5C-AD1A-4176-B81C-ADF5AFB7AA73</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
+		<key>InjectSystemID</key>
+		<true/>
 	</dict>
 </dict>
 </plist>
